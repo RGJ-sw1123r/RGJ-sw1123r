@@ -2,8 +2,7 @@
 
 > Pre-AI: code without docs. Post-AI: docs without code.
 
-**Riu Salze**  
-**Riu Salze Studio**
+### Riu Salze · Riu Salze Studio
 
 *Riu Salze* is a Catalan-inspired identity that translates the sound, meaning, and structure of my Korean name into a Western linguistic form. *Riu* naturally echoes the sound of my surname, **Ryu**.
 
