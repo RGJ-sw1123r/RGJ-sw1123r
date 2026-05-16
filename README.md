@@ -18,7 +18,7 @@ I treat programming languages and frameworks as implementation media. My primary
 
 I specialize in turning complex legacy systems into clear, observable, and reusable architectural flows.
 
-Based in Seoul, South Korea, I also treat human language as a medium for design, collaboration, and execution. I use AI to build across linguistic and geographical boundaries.
+Based in Seoul, South Korea, I treat human language as a medium for design, collaboration, and execution. I use AI to build across linguistic and geographical boundaries.
 
 ## Engineering Notes
 
