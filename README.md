@@ -19,6 +19,12 @@ I’m comfortable working with legacy systems, but I’m most interested in unde
 
 Based in Korea, I primarily work in Korean and use AI to communicate and build across languages.
 
+## Engineering Notes
+
+**🔭 Cosmic Horizon** is where I document my engineering notes, development philosophy, and AI-assisted development models.
+
+[![Visit Cosmic Horizon](https://img.shields.io/badge/Cosmic%20Horizon-Visit-1f6feb?style=for-the-badge)](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
+
 ## Featured Projects
 
 ### [Coffeebara](https://github.com/RGJ-sw1123r/coffeebara)
