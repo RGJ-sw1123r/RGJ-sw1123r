@@ -5,7 +5,7 @@
 **Riu Salze**  
 **Riu Salze Studio**
 
-*Riu Salze* is a Catalan-inspired name that reflects the meaning of my Korean name, while *Riu* also echoes the sound of my surname, **Ryu**.
+*Riu Salze* is a Catalan-inspired identity that translates the sound, meaning, and structure of my Korean name into a Western linguistic form. *Riu* naturally echoes the sound of my surname, **Ryu**.
 
 > **Observe the structure.**  
 > **Understand the structure.**  
@@ -13,11 +13,13 @@
 
 ## About Me
 
-Java / Spring web developer focused on system structure, data flow, and maintainable architecture.
+Software engineer focused on system structure, data flow, and AI-assisted development architecture.
 
-I’m comfortable working with legacy systems, but I’m most interested in understanding their structure, reducing repetition, and turning scattered implementation patterns into clear, reusable flows.
+I treat programming languages and frameworks as implementation media. My primary interest lies in how systems are framed, observed, verified, and evolved.
 
-Based in Korea, I primarily work in Korean and use AI to communicate and build across languages.
+I specialize in turning complex legacy systems into clear, observable, and reusable architectural flows.
+
+Based in Seoul, South Korea, I also treat human language as a medium for design, collaboration, and execution. I use AI to build across linguistic and geographical boundaries.
 
 ## Engineering Notes
 
