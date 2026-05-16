@@ -49,3 +49,4 @@ Based in Seoul, South Korea, I treat human language as a medium for design, coll
 
 - Email: rgj-sw1123r [at] naver [dot] com
 - GitHub: [github.com/RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+- LinkedIn: [linkedin.com/in/riusalze](https://www.linkedin.com/in/riusalze)
