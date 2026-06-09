@@ -49,4 +49,4 @@ Based in Seoul, South Korea, I treat human language as a medium for design, coll
 
 - Email: riusalze [at] gmail [dot] com
 - GitHub: [github.com/RGJ-sw1123r](https://github.com/RGJ-sw1123r)
-- LinkedIn: [linkedin.com/in/riusalze](https://www.linkedin.com/in/riusalze)
+- LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
