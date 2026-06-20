@@ -28,22 +28,33 @@ Based in Seoul, South Korea, I treat human language as a medium for design, coll
 
 ## Featured Projects
 
-### [Coffeebara](https://github.com/RGJ-sw1123r/coffeebara)
+### [Codex JSONL Observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
 
-☕ A coffee-focused web app for recording cafes, maps, and personal coffee experiences.
+🛰️ A local desktop tool for reading Codex CLI JSONL sessions and exporting versionable worklog bundles.
 
-- Built with an AI-assisted development workflow
-- Focused on cafe records, map-based exploration, and user experience
-- Uses Prisma-based schema design and structured data flow
+Codex JSONL Observatory is built from the philosophy behind **Cosmic Horizon**: AI-assisted development should not disappear as a vague interaction history. Prompts, responses, tool calls, decisions, and verification traces are also engineering artifacts. They should be observable, reviewable, and versionable.
+
+This project extends Codex session reading into a worklog-oriented workflow, where local JSONL sessions can be turned into structured records grouped by `[YOU]` request boundaries.
+
+* Built with Rust, Tauri, Svelte, and TypeScript
+* Reads local Codex CLI JSONL session logs
+* Exports versionable worklog bundles
+* Treats prompts and AI-assisted work traces as reviewable engineering artifacts
+* Developed as a practical continuation of the Cosmic Horizon archive
 
 ### [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
 
-🧩 A local desktop app that turns OpenAI Codex CLI JSONL session logs into readable chat conversations.
+🧩 An earlier Kotlin/Swing implementation for reading local Codex CLI JSONL session logs.
 
-- Kotlin/JVM desktop application
-- Swing-based UI
-- Designed for local-first Codex session log viewing
-- Planned portable Windows zip release
+Codex Chat Viewer was my first concrete step as a product engineer in this direction. Instead of just complaining that reviewing local Codex logs was inconvenient, I started building a tool to make the work easier to inspect, search, filter, and export.
+
+It remains as the predecessor to Codex JSONL Observatory.
+
+* Built with Kotlin/JVM and Swing
+* Focused on local-first Codex session log viewing
+* Turned raw JSONL logs into readable chat-style transcripts
+* Started from a direct workflow friction I experienced while using Codex CLI
+* Preserved as the earlier implementation before Codex JSONL Observatory
 
 ## Contact
 
