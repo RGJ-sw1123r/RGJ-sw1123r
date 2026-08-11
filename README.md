@@ -1,6 +1,6 @@
-# RGJ-sw1123r
+# revertable
 
-> Pre-AI: code without docs. Post-AI: docs without code.
+> Build boldly. Keep it revertable.
 
 ### Riu Salze · Riu Salze Studio
 
@@ -28,7 +28,7 @@ Based in Seoul, South Korea, I treat human language as a medium for design, coll
 
 ## Featured Projects
 
-### [Codex JSONL Observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
+### [Codex JSONL Observatory](https://github.com/revertable/codex-jsonl-observatory)
 
 🛰️ A local desktop tool for reading Codex CLI JSONL sessions and exporting versionable worklog bundles.
 
@@ -42,7 +42,7 @@ This project extends Codex session reading into a worklog-oriented workflow, whe
 * Treats prompts and AI-assisted work traces as reviewable engineering artifacts
 * Developed as a practical continuation of the Cosmic Horizon archive
 
-### [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
+### [Codex Chat Viewer](https://github.com/revertable/codex-chat-viewer)
 
 🧩 An earlier Kotlin/Swing implementation for reading local Codex CLI JSONL session logs.
 
@@ -59,5 +59,5 @@ It remains as the predecessor to Codex JSONL Observatory.
 ## Contact
 
 - Email: riusalze [at] gmail [dot] com
-- GitHub: [github.com/RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+- GitHub: [github.com/revertable](https://github.com/revertable)
 - LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
